@@ -1,0 +1,26 @@
+{
+  "name": "recv",
+  "version": "0.0.0",
+  "description": "The evil twin of `send`",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piranna/recv.git"
+  },
+  "keywords": [
+    "http",
+    "put",
+    "post",
+    "patch",
+    "delete"
+  ],
+  "author": "Jesús Leganés Combarro 'piranna' <piranna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piranna/recv/issues"
+  },
+  "homepage": "https://github.com/piranna/recv#readme"
+}
